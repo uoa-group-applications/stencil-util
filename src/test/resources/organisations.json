@@ -1,0 +1,94 @@
+{
+    "themes" : [
+        {
+            "name": "Faculty of Business and Economics",
+            "color": "#A8B400",
+            "organisational_unit": "BUSEC",
+            "domains": [
+                "business.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Arts",
+            "color": "#A71930",
+            "organisational_unit": "ARTFAC",
+            "domains": [
+                "arts.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Education",
+            "color": "#DAA900",
+            "organisational_unit": "EDUFAC",
+            "domains": [
+                "education.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Engineering",
+            "color": "#4F2D7F",
+            "organisational_unit": "ENGFAC",
+            "domains": [
+                "engineering.auckland.ac.nz",
+                "ecm.auckland.ac.nz",
+                "cee.auckland.ac.nz",
+                "esc.auckland.ac.nz",
+                "mech.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Medical and Health Sciences",
+            "color": "#00877C",
+            "organisational_unit": "MEDFAC",
+            "domains": [
+                "fmhs.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Law",
+            "color": "#005B82",
+            "organisational_unit": "LAWFAC",
+            "domains": [
+                "law.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Creative Arts and Industries",
+            "color": "#DC4913",
+            "organisational_unit": "CAI",
+            "domains": [
+                "creative.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "Faculty of Science",
+            "color": "#0039A6",
+            "organisational_unit": "SCIFAC",
+            "domains": [
+                "science.auckland.ac.nz",
+                "chemistry.auckland.ac.nz",
+                "clinics.auckland.ac.nz",
+                "cs.auckland.ac.nz",
+                "leighmarine.auckland.ac.nz",
+                "marine.auckland.ac.nz",
+                "math.auckland.ac.nz",
+                "phy.auckland.ac.nz",
+                "psych.auckland.ac.nz",
+                "sbs.auckland.ac.nz"
+            ]
+        },
+        {
+            "name" : "Auckland Bioengineering Institute",
+            "color": "#014F8A",
+            "organisational_unit": "BIOINSTIT",
+            "domains": [
+                "abi.auckland.ac.nz"
+            ]
+        },
+        {
+            "name": "New Start",
+            "color": "#3399CC",
+            "organisational_unit": "NEWSTART"
+        }
+    ]
+}
