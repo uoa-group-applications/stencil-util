@@ -1,7 +1,7 @@
 package nz.ac.auckland.stencil.util
 
-import nz.ac.auckland.grayles.services.AngularTemplates
-import nz.ac.auckland.grayles.services.I18nClientMessageMap
+import nz.ac.auckland.lmz.services.AngularTemplates
+import nz.ac.auckland.lmz.services.I18nClientMessageMap
 import nz.ac.auckland.stencil.StencilService
 import org.junit.Test
 

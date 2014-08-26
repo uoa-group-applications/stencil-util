@@ -2,8 +2,8 @@ package nz.ac.auckland.stencil.util
 
 import javax.inject.Inject
 import javax.servlet.http.HttpServletRequest
-import nz.ac.auckland.grayles.services.AngularTemplates
-import nz.ac.auckland.grayles.services.I18nClientMessageMap
+import nz.ac.auckland.lmz.services.AngularTemplates
+import nz.ac.auckland.lmz.services.I18nClientMessageMap
 
 /**
  * Class assumes all the data you will need is the angular templates and the messages
